@@ -58,10 +58,8 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 <H3>Output</H3>
 
-![alt text](image-1.png)
-
+![alt text](image-3.png)
 ![alt text](image-2.png)
-
 ![alt text](image.png)
 
 <H3>Result:</H3>
