@@ -58,9 +58,7 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 <H3>Output</H3>
 
-![alt text](image-3.png)
-![alt text](image-2.png)
-![alt text](image.png)
+![alt text](image-4.png)
 
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
