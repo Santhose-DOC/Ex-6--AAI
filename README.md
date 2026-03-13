@@ -55,6 +55,7 @@ for word in words:
 print ( "Synonyms : " ,set (synonyms) )
 print ( "Antonyms : " ,set(antonyms) )
 
+```
 <H3>Output</H3>
 
 ![alt text](image-1.png)
